@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rana Asad Ur Rahman
 ### Full-Stack Software Engineer | Spring Boot & React Ecosystem
 
-I am a final-year Software Engineering student and Co-Founder of Zeploy, specializing in building enterprise-grade backend systems, secure RESTful APIs, and responsive full-stack architectures.
+I am a final-year Software Engineering student, specializing in building enterprise-grade backend systems, secure RESTful APIs, and responsive full-stack architectures.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rana-asad-ur-rahman-0a2457339/" target="_blank">
