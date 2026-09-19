@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a final-year Software Engineering student specializing in production-grade backend systems, distributed microservices, and reactive full-stack architectures.
+I am a Software Engineer specializing in production-grade backend systems, distributed microservices, and reactive full-stack architectures.
 
 - 🔭 **Current Focus:** Microservice resiliency, Kafka messaging pipelines, and database query optimization.
 - 🌱 **Core Architectural Principles:** Domain-Driven Design, transactional integrity, and fault-tolerant system design.
